@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pagejs-on-calypso-react/static/css/main.2e45a390.chunk.css",
-    "main.js": "/pagejs-on-calypso-react/static/js/main.9382b0dc.chunk.js",
-    "main.js.map": "/pagejs-on-calypso-react/static/js/main.9382b0dc.chunk.js.map",
+    "main.js": "/pagejs-on-calypso-react/static/js/main.b0ceb47c.chunk.js",
+    "main.js.map": "/pagejs-on-calypso-react/static/js/main.b0ceb47c.chunk.js.map",
     "runtime-main.js": "/pagejs-on-calypso-react/static/js/runtime-main.78b3a5cf.js",
     "runtime-main.js.map": "/pagejs-on-calypso-react/static/js/runtime-main.78b3a5cf.js.map",
     "static/css/2.727f3867.chunk.css": "/pagejs-on-calypso-react/static/css/2.727f3867.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.727f3867.chunk.css",
     "static/js/2.e8d2ffeb.chunk.js",
     "static/css/main.2e45a390.chunk.css",
-    "static/js/main.9382b0dc.chunk.js"
+    "static/js/main.b0ceb47c.chunk.js"
   ]
 }
